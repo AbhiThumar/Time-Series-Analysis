@@ -9,10 +9,11 @@ This repository provides a comprehensive analysis using Python, with libraries s
 
 ## Features:
 
-Data extraction and preprocessing
-Exploratory Data Analysis (EDA)
-Time series decomposition
-Trend and seasonality identification
-Autocorrelation analysis
-Visualization of pollutant distribution across different regions
+Data extraction and preprocessing      
+Exploratory Data Analysis (EDA)         
+Time series decomposition        
+Trend and seasonality identification       
+Autocorrelation analysis      
+Visualization of pollutant distribution across different regions          
+
 This solution assists policymakers, researchers, and public health officials to make informed decisions based on data-driven insights into air quality trends.
