@@ -21,3 +21,5 @@ Detrending and Model Fitting
 Forecasting  
 
 This solution assists policymakers, researchers, and public health officials to make informed decisions based on data-driven insights into air quality trends.
+
+Demo Video Link - https://youtu.be/zjCt8_B9jjY?si=4F6gYZj3kPANZZ57  
